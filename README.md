@@ -1,0 +1,2 @@
+# Single-Phase-Half-Wave-Controlled-Rectifier
+Designed via MULTI SIM and implemented a single-phase half-wave-controlled rectifier with the necessary firing circuit adjustable with a potentiometer giving control over the input wave, henceforth, the output is both rectified and controlled. The analog potentiometer can be further replaced with a digital one like (MCP4131-103E/P) via SPI and be controlled via a script on and microprocessor.
